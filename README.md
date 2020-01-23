@@ -1,4 +1,4 @@
-# dhall-vim
+# sql-qq
 
 This package provides syntax highlighting for SQL within Haskell, when one uses
 the
